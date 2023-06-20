@@ -3,8 +3,6 @@ import pycountry
 import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
-from wordcloud import WordCloud
-import seaborn as sns
 
 # Muat data
 data = pd.read_csv('world_population.csv')
