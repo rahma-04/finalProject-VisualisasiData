@@ -15,7 +15,7 @@ Ini adalah proyek website yang bertujuan untuk melakukan visualisasi data popula
 
 Jalankan website:
 
-   Website akan dapat diakses melalui `[http://localhost:5000](https://rahditapp.streamlit.app/)` pada browser.
+   Website akan dapat diakses melalui `(https://rahditapp.streamlit.app/)` pada browser.
 
 
 ## Kontak
